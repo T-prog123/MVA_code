@@ -6,3 +6,7 @@
 *.pdf
 ~$*.docx
 ~$*.doc
+
+
+*.csv
+*.xlsx

@@ -10,3 +10,8 @@
 
 *.csv
 *.xlsx
+
+
+#Ignore images
+*.png
+
